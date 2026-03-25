@@ -9,8 +9,8 @@
   "plugins": [
     {
       "name": "arthur-loyd-bretagne",
-      "source": "./",
-      "description": "Skills immobilier commercial pour Arthur Loyd Bretagne - offres, charte graphique, prospection, etats des lieux, newsletters",
+      "source": "./plugins/arthur-loyd-bretagne",
+      "description": "Skills immobilier commercial - offres, charte graphique, prospection, etats des lieux, newsletters",
       "version": "1.0.0"
     }
   ]
