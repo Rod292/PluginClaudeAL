@@ -1,8 +1,11 @@
 {
   "name": "arthur-loyd-bretagne",
-  "description": "Skills immobilier commercial pour Arthur Loyd Bretagne — offres, charte graphique, prospection, états des lieux",
+  "version": "1.0.0",
+  "description": "Skills immobilier commercial pour Arthur Loyd Bretagne - offres, charte graphique, prospection, etats des lieux, newsletters",
   "author": {
     "name": "Arthur Loyd Bretagne"
   },
+  "homepage": "https://github.com/Rod292/PluginClaudeAL",
+  "repository": "https://github.com/Rod292/PluginClaudeAL",
   "keywords": ["immobilier", "commercial", "crm", "arthur-loyd", "bretagne"]
 }
